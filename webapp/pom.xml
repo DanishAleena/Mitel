@@ -10,9 +10,9 @@
     <relativePath>../pom.xml</relativePath>
   </parent>
 
-  <artifactId>Micc</artifactId>
+  <artifactId>micollab</artifactId>
   <packaging>war</packaging>
-  <name>Micc</name>
+  <name>micollab</name>
   <description>Webapp.</description>
 
   <build>
