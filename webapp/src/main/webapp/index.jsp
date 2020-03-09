@@ -5,9 +5,9 @@ Name :-  Micollab
 
 Manger: Sameer
 
-Developer : 3 nos
+Developer : Hareesh,Sarun
 
-testing : 3 nos
+tester : Ramesh
 
 Devops engineer : Danish Abdulrahiman
 </h2>
